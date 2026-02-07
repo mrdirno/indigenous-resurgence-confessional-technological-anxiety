@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_confessional_technological_anxiety",
+  "title": "The Currency of Care",
+  "tagline": "When data becomes the new colonial frontier, one woman must hunt the truth between tradition and surveillance.",
+  "target_words": 70000,
+  "actual_words": 71604,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Sovereignty of Intimacy",
+    "Digital Colonialism",
+    "Ritual as Resistance",
+    "The Quantified Wild"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Drone and the Doe",
+      "words": 2984
+    },
+    {
+      "ch": 2,
+      "title": "The Unmarked Package",
+      "words": 2983
+    },
+    {
+      "ch": 3,
+      "title": "Council Debates",
+      "words": 2983
+    },
+    {
+      "ch": 4,
+      "title": "The Ghost in the Grid",
+      "words": 2983
+    },
+    {
+      "ch": 5,
+      "title": "Tobin's Trapline",
+      "words": 2983
+    },
+    {
+      "ch": 6,
+      "title": "Kaya's Compromise",
+      "words": 2983
+    },
+    {
+      "ch": 7,
+      "title": "The First Anomaly",
+      "words": 2983
+    },
+    {
+      "ch": 8,
+      "title": "Devlin's Demonstration",
+      "words": 2983
+    },
+    {
+      "ch": 9,
+      "title": "Echoes in the Archive",
+      "words": 2983
+    },
+    {
+      "ch": 10,
+      "title": "The Silent Season",
+      "words": 2983
+    },
+    {
+      "ch": 11,
+      "title": "Breaking the Model",
+      "words": 2983
+    },
+    {
+      "ch": 12,
+      "title": "The Offering",
+      "words": 2983
+    },
+    {
+      "ch": 13,
+      "title": "Ancillary Data",
+      "words": 2983
+    },
+    {
+      "ch": 14,
+      "title": "The Firekeeper's Code",
+      "words": 2983
+    },
+    {
+      "ch": 15,
+      "title": "Counter-Surveillance",
+      "words": 2983
+    },
+    {
+      "ch": 16,
+      "title": "The Heart-Shot Sprint",
+      "words": 2983
+    },
+    {
+      "ch": 17,
+      "title": "What the Forest Remembers",
+      "words": 2983
+    },
+    {
+      "ch": 18,
+      "title": "The Accord's Fine Print",
+      "words": 2983
+    },
+    {
+      "ch": 19,
+      "title": "A Different Math",
+      "words": 2983
+    },
+    {
+      "ch": 20,
+      "title": "The Black Fly Swarm",
+      "words": 2983
+    },
+    {
+      "ch": 21,
+      "title": "Spirit, Not Signal",
+      "words": 2983
+    },
+    {
+      "ch": 22,
+      "title": "The Last Unmeasured Place",
+      "words": 2983
+    },
+    {
+      "ch": 23,
+      "title": "Harvest of Truth",
+      "words": 2983
+    },
+    {
+      "ch": 24,
+      "title": "The New/Old Contract",
+      "words": 2984
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a traditional practice (e.g., berry picking, fishing, storytelling) is interrupted or transformed by silent surveillance tech. Focus on the character's internal conflict between honoring the ritual and performing for the lens.",
+      "Create a conversation between a skeptical elder and a tech-savvy youth about the 'Shared Stewardship Accord.' The elder speaks in metaphors of relationship; the youth speaks in terms of data sovereignty and leveraging systems.",
+      "Draft a 'confessional' monologue from Mark Devlin's perspective after a key encounter with Elara. Explore his genuine belief in 'technological care' and his blind spots.",
+      "Imagine a discovery within the Terra-Vision data: an anomaly that their models can't explain, but that aligns perfectly with an oral history or legend of the community. Write the moment of realization."
+    ],
+    "technical": [
+      "Design a speculative 'counter-surveillance' tool or practice from Elara's perspective. This could be a tech modification, a biological intervention (e.g., training birds to disrupt drones), or a data obfuscation ritual. Provide a concept and method.",
+      "Propose a 'Land-Based API'—a set of protocols for interacting with the ecosystem that embeds Indigenous laws (like reciprocity, taking only what is needed) directly into the code structure of a monitoring platform. Outline key endpoints and ethical constraints."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "William Gibson",
+      "Robin Wall Kimmerer",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A young indigenous woman, her face a mask of fierce concentration, carefully embroiders a circuit board with glowing, bioluminescent threads, her hands performing an act of sacred defiance, [within a dense, hyper-detailed forest where data streams like vines intertwine with ancient roots and the eyes of hidden animals glint with pixelated light], in the atmospheric style of Kent Monkman and Ruan Jia, blending mythic symbolism with hyperrealistic detail, [book cover framing, a centered and intimate portrait that bleeds to the edges, a low-angle shot looking up at her as a figure of monumental resilience], [dramatic chiaroscuro lighting where the cool, electric blues and greens of the digital world clash with the warm, earthy amber and ochre of firelight and tradition], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
