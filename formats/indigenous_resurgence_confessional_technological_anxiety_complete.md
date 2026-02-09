@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The deer was dead, but the drone was watching.
@@ -139,6 +141,8 @@ On the other side: a ghost light from a story, signaling in a language I was ter
 The agreement *was* broken.
 
 And I had a terrible feeling that the shiny tool on my kitchen table wasn’t going to help me fix it. It was just going to show me, in high definition, all the ways it was already shattered.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -325,6 +329,8 @@ I had never felt more connected to this land. And I had never been more terrifie
 It didn’t just translate.
 
 It awakened.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
