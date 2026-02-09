@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The deer was dead, but the drone was watching.
 
@@ -69,8 +71,7 @@ I got in. He stood there, illuminated by my headlights. Just before I turned the
 “That’s a beautiful animal. You should register the harvest in the app. It’ll help calibrate our models.”
 
 I drove away. In my rearview, he was just a shrinking white figure, holding his little window of light.
-
-The road home was a black ribbon. My headlights carved a tunnel through the cedars. My hands were still faintly sticky on the wheel.
+  - The road home was a black ribbon. My headlights carved a tunnel through the cedars. My hands were still faintly sticky on the wheel.
 
 Data is the new currency of care.
 
@@ -138,7 +139,9 @@ The agreement was broken.
 
 And I had a terrible feeling that the shiny tool on my kitchen table wasn’t going to help me fix it. It was just going to show me, in high definition, all the ways it was already shattered.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The headset sat on my table for three days. It became a part of the landscape, like the persistent knot in my shoulder from carrying the deer. I’d walk past it making coffee, and its sleek curves seemed to accuse me of cowardice. Or wisdom. I couldn’t tell which.
 
@@ -324,7 +327,9 @@ It didn’t just translate.
 
 It awakened.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The artifact was smaller than I’d thought. A vessel, maybe. Or a capstone. About the size of a cantaloupe, though heavier, denser. The black material was cool to the touch, not like stone, not like ceramic. It felt like held silence. The spiral on its surface seemed to shift when I looked at it from the corner of my eye, as if the groove itself was moving.
 
@@ -410,11 +415,13 @@ As I stood, my eye caught a flicker of movement in the data on Devlin’s laptop
 
 And there, at the base of my hemlock, was a perfect, small circle of intense, glowing white. A thermal spike. Right where my
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The forest swallowed the road a mile back. Now there was only the map, the stone, and the green silence of the Whispering Woods.
 
@@ -542,11 +549,13 @@ Not a hum. Not a sigh.
 
 It was the sound of machinery.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The green tunnel ended not with a door, but with a dissolution. One moment we were walking between walls of woven light, the hum of the forest a tangible thing against our skin. The next, the light frayed at the edges, the ferns uncurled, and we stepped out into the ordinary, damp air of a river valley. The transition was so smooth it felt like a betrayal. As if the forest had held its breath for us, and now, its duty done, it simply exhaled us into the world.
 
@@ -571,8 +580,7 @@ The man’s eyes moved over each of us. They lingered on Alex’s pack, where th
 A young woman, her arms roped with muscle under a sleeveless tunic, ducked out of a lean-to. She gave a single, sharp nod.
 
 “The spring flood undercut the bank by the old cedar,” Arlen said, turning back to us. “A section of our main fish weir is compromised. The next high water will take it, and a season’s food with it. Mara will show you. You help secure it, you eat with us tonight. We’ll talk of currents. Of the light?” He shrugged, a gesture that spoke of deep, ingrained skepticism. “That is a deeper channel. We’ll see if you can swim.”
-
-The work was a brutal, cold baptism. The north channel was a side-stream, quieter than the main river but running swift and deep. The old cedar was indeed undercut, its massive roots exposed like black bones, the bank beneath it crumbling. The fish weir—a complex, beautiful fence of woven willow and cedar withes—jutted out from the compromised bank. One corner sagged, its support posts leaning drunkenly toward the pull of the water.
+  - The work was a brutal, cold baptism. The north channel was a side-stream, quieter than the main river but running swift and deep. The old cedar was indeed undercut, its massive roots exposed like black bones, the bank beneath it crumbling. The fish weir—a complex, beautiful fence of woven willow and cedar withes—jutted out from the compromised bank. One corner sagged, its support posts leaning drunkenly toward the pull of the water.
 
 Mara didn’t give instructions. She simply started working, and the expectation was that we would parse the logic of it. She and two other compact members, a silent man named Finn and a wiry woman called Bee, began driving new posts—whole young alders, sharpened to points—into the riverbed with a heavy maul. The thwock of the blow, the shudder up the post, was a language of its own.
 
@@ -593,8 +601,7 @@ Arlen fixed him with that flat, assessing look. “A hunger. That’s what the o
 By the time the light began to fail, the weir was secure. The new posts stood straight and defiant. The woven repair was a darker patch in the older, silvered wood, a scar that would strengthen the whole. We sat on the bank, steaming in the chill air, passing a waterskin. My muscles hummed with a clean, simple fatigue. For a few hours, the only anxiety had been physical, and it had an answer: lift, push, hold.
 
 Mara surveyed the work, gave a curt nod. “It’ll hold.” It was the first thing she’d said all afternoon. It felt like a medal.
-
-That night, we ate in the communal space—a large, fire-lit area under a great stretched hide between three trees. We shared a stew of river trout, wild onion, and some nutty grain, eaten from carved wooden bowls. The compact was maybe thirty people in all. Their trust was a cautious, tangible thing, offered not in words but in the act of passing a bowl, in the slight shift of a body to make room by the fire.
+  - That night, we ate in the communal space—a large, fire-lit area under a great stretched hide between three trees. We shared a stew of river trout, wild onion, and some nutty grain, eaten from carved wooden bowls. The compact was maybe thirty people in all. Their trust was a cautious, tangible thing, offered not in words but in the act of passing a bowl, in the slight shift of a body to make room by the fire.
 
 After the meal, Arlen produced a pipe. He lit it with a coal, the smoke smelling of sage and something bitter. He took a long draw, then passed it to Kaya. The pipe moved in a circle—Kaya, to me, to Alex, to Mara, to an older woman with hair white as river-foam who had been introduced only as Grandmother.
 
@@ -604,10 +611,10 @@ When the pipe returned to him, Arlen spoke, his voice softened by smoke and fire
 
 “The song it used to sing,” the white-haired Grandmother said, her voice a dry rustle. “My mother’s mother called it the Elyrian’s Lament. A fragment of it stayed in our family. A lullaby, for when the river was restless.” She closed her eyes, and in a thin, reedy voice that held the ghost of melody, she sang:
 
-“Where the root embraces the star-metal seam,
+*“Where the root embraces the star-metal seam,
 And the current forgets the moon’s dream,
 Lies the heart not of stone, but of silent scream.
-Turn the key of rain, in the forgotten theme.”
+Turn the key of rain, in the forgotten theme.”*
 
 The fire popped. The river roared its endless counter-song. The fragment hung in the air, delicate and perplexing. It wasn’t a map. It was a riddle wrapped in a sigh.
 
@@ -660,8 +667,7 @@ The silence lasted three heartbeats. Then the world rushed back in with a stagge
 In the sudden, shocking return of noise, another sound threaded itself: the distant, rhythmic thump-thump-thump of Consulate verti-rotors.
 
 Alex was pale, trembling, staring at his hands as if they were foreign objects. “It wasn’t a key,” he rasped, his voice raw. “It was an activation code. And I just sent up a flare.”
-
-The compact moved with a quiet, terrifying efficiency. The sound of the rotors was still a rumor in the distance, but Arlen was already among us, his face grim in the lamplight he’d relit.
+  - The compact moved with a quiet, terrifying efficiency. The sound of the rotors was still a rumor in the distance, but Arlen was already among us, his face grim in the lamplight he’d relit.
 
 “The blue pulse. It shone right through your hide. They’ll have seen it for miles.” He didn’t sound angry. He sounded resigned, as if he’d known the river’s peace was a loan, not a gift. “You go. Now.”
 
@@ -685,11 +691,13 @@ The raft sped on, a speck of stolen wood on the immense, ancient flow. Ahead, th
 
 The hook wasn’t in the distance. It was inside the raft, in the shape of a man holding a stone, who had just learned that every key turns two ways: it can open a door, or it can lock you irrevocably inside. The blue light wasn’t just ahead. It was among us. And it had Alex’s fingerprints on it.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The river’s sigh became a grinding breath, a deep-throated exhalation from the stone itself. The Sighing Rapids were not white water in the common sense. They were a series of immense, smooth humps of black basalt, over which the river slid like a sheet of obsidian silk, tearing itself into a million whispering threads. The sound was the opposite of Alex’s scream. It was a vast, patient inhale, a drawing-in of the world. We navigated it by memory and touch, Kaya and I poling off the glassy shoulders of rock, the raft spinning lazily in the sluggish, powerful surges. The stars above the canyon rim watched, cold and indifferent.
 
@@ -781,11 +789,13 @@ It metabolized.
 
 And we were now deep in its digestive tract, moving softly toward its beating, broadcasting heart. The silence around us was not an absence. It was the sound of something listening, waiting to see what we would offer up next.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The silence was not an absence. It was a held breath.
 
@@ -850,8 +860,7 @@ But his own thread was already pulling. His eyes snapped open, but they weren’
 Now, that silence was back. It poured from the cavern walls, a thick, suffocating syrup. The voices of his dead squad whispered from the dripping stalactites. You paused. You looked. You failed. He could feel the grit of that foreign dust in his teeth, hear the echo of his own too-slow breath. The failure was not a memory. It was a cage, rebuilt around him here, in this glowing gut of the earth.
 
 The group was gone. We were each in our own private labyrinth, the walls made of our own worst moments and our most desperate wants.
-
-Alex stood at the threshold of the sunlight.
+  - Alex stood at the threshold of the sunlight.
 
 It was perfect. A crisp November day, just like the one he’d left. But here, there was no underlying hum of grid-anxiety. No distant whine of surveillance rotors. The air was clean, scrubbed of data-smog. Through the open window in the rock, he could see his house. Their house. His mother was on the porch, hanging a bird feeder. She turned, saw him, and waved. Her smile was untroubled. The deep, permanent crease of worry between her brows was gone.
 
@@ -876,8 +885,7 @@ He looked at his mother’s smiling face. He loved that face. He would carry its
 He turned his back on the sunlight. He closed his eyes, not to the cavern, but to the stone. He stopped fighting its signal. He let the channel open fully. He didn’t ask it for light. He asked it for truth.
 
 The stone answered.
-
-For Kael, the past was not a vision. It was a trap.
+  - For Kael, the past was not a vision. It was a trap.
 
 The concrete bunker materialized around him, dank and close. The whispers were gunfire now, staccato and real. He could feel the weight of the rifle in his hands, the slick of sweat inside his gloves. The comms in his ear spat static and a dying man’s gurgle. “They’re in the goddamn walls!”
 
@@ -900,8 +908,7 @@ He took a deliberate step forward, out of the cover his memory-self was hiding b
 “You want to charge me again?” he challenged the empty air. “Show me the bill.”
 
 The bunker flickered. Like a faulty projection. For a second, he saw the green, glowing pillars through the crumbling concrete. He saw Sam, twenty yards away, reaching with trembling hands toward a shelf of golden light that held no books.
-
-Sam was already writing the paper in his head.
+  - Sam was already writing the paper in his head.
 
 The title was forming: “Subterranean Semiotics: A First-Hand Decoding of the Throat’s Luminous Lexicon.” It would revolutionize everything. Archaeology, linguistics, physics. The archive before him was vast, endless. Shelves of light holding tablets of condensed information. He could feel the knowledge radiating from them, a warm, intellectual sun on his face. All he had to do was reach out and interface. The stone in Alex’s possession was a key, yes, but this… this was the library itself. He could have it all, without the danger, without the cost. He could give the location to the proper authorities—not the Archon, but a university consortium, a protected scientific trust. They would extract the knowledge safely, rationally. Alex wouldn’t understand. He was too emotional, too attached to the stone as an artifact of his father. But Sam saw the bigger picture. The human picture. This was for everyone.
 
@@ -924,8 +931,7 @@ Sam’s mouth went dry. How did he know?
 The word betrayal was a splash of cold water. Sam looked at the glowing shelves again. This time, he saw not just the golden light, but a quality to it—a hungry, absorptive quality. It wasn’t radiating knowledge. It was inviting it. It wanted the data in his head, the coordinates, the security protocols of Alex’s trust. It wanted to consume the secret so it could offer it to the next bidder.
 
 He pulled his hand back as if burned.
-
-I had the drone-agent in my knife-hand.
+  - I had the drone-agent in my knife-hand.
 
 It was a solid thing, a man-shaped void that drank the green light. It advanced, soundless. My own fear had given it form and purpose. I circled, the hunter’s part of my brain taking over. It was just another animal. A predator. I knew how to deal with predators.
 
@@ -1015,11 +1021,13 @@ The figure on the bridge was Eli. Alex’s father.
 
 And he was holding a knife, its point aimed not at us, but down, at his own palm. His eyes, when they met Alex’s, held no recognition. Only a cold, biological fire, identical to the light in the spire behind him, and the light that had once filled the Archon’s scanning lens.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The spire’s light was a heartbeat, and the man on the bridge was its vessel.
 
@@ -1142,8 +1150,7 @@ The bridge, however, remained. Thrumming with a steady, gentle, golden light.
 Alex knelt, cradling the empty shell of his father. Eli’s eyes were closed. He looked asleep. The knife lay beside them, its blade clean.
 
 The lock was open.
-
-We crossed the bridge of light. It was solid underfoot, humming with a low, warm frequency that vibrated in our teeth. Kael stumbled across between Sam and me, his weight a terrible lightness. He was whispering in a language that had no roots in any forest I knew.
+  - We crossed the bridge of light. It was solid underfoot, humming with a low, warm frequency that vibrated in our teeth. Kael stumbled across between Sam and me, his weight a terrible lightness. He was whispering in a language that had no roots in any forest I knew.
 
 The far side of the chasm was not another wall. It was a curtain of living rock that parted as the gold light touched it, revealing a tunnel that sloped sharply upward. The air changed. The processed, metallic chill of the cavern bled away, replaced by a damp, organic breeze. It smelled of wet stone, of moss, of time.
 
@@ -1277,11 +1284,13 @@ He turned his head, looking up the dark, spiraling staircase.
 
 “It says someone came with him.”
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The journal was a dry leaf in Alex’s hands. It held the shape of a book, but its substance was gone, eaten by time and the damp breath of this place. The words on that last page were not ink. They were scratches, gouges from a pen that had run dry, pressed into the paper with a final, terrible urgency. I saw them over his shoulder. Not alone. He is here. He is waiting. The letters trailed off into a smear, a stumble.
 
@@ -1366,8 +1375,7 @@ He grabbed my arm. His grip was iron. “My father. He wasn’t trying to pull t
 The sound that reached us then was not from the sphere. It was from far below. A distant, muffled crump. Then another. Explosives.
 
 The Consulate had breached the valley.
-
-Time, which had stretched and thinned in the archive chamber, now snapped back with the whiplash force of reality. The visions were gone. The whispers were gone. Only the sphere remained, pulsing its sick, irregular heartbeat. And the sound of war, echoing up through the stone intestines of the city.
+  - Time, which had stretched and thinned in the archive chamber, now snapped back with the whiplash force of reality. The visions were gone. The whispers were gone. Only the sphere remained, pulsing its sick, irregular heartbeat. And the sound of war, echoing up through the stone intestines of the city.
 
 Alex dragged himself upright. He was changed. Not just in the eyes, which slowly bled back to their normal, haunted brown, but in his bearing. He moved with a new certainty, a grim economy. He had seen the blueprint of the abyss. It had focused him.
 
@@ -1533,11 +1541,13 @@ The gold light under his skin pulsed once, twice, like a dying firefly.
 
 Then it went still.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The quiet was the worst part.
 
@@ -1630,8 +1640,7 @@ He pushed himself to his feet. He didn’t sway. He stood with a new, solid cert
 “The way out is this way,” he said. Not a guess. A statement of fact. “And there’s a place we need to see first. A fragment of the archive she mentioned. It’s… calling.”
 
 He walked. I followed. His footsteps made no sound.
-
-The place was a vault, or a tomb, or a garden. It was all three.
+  - The place was a vault, or a tomb, or a garden. It was all three.
 
 It was a circular room, domed, but the dome was a projection of a night sky I didn’t recognize—constellations in impossible configurations. In the center of the room grew a tree. Not a real tree. A sculpture of woven light and crystal, its branches reaching up to the false stars, its roots delving into a pool of black, still water that covered the floor. The air smelled of ozone and damp earth.
 
@@ -1684,8 +1693,7 @@ He walked toward an archway that hadn’t been there a moment before. I took one
 I followed him out. The forest would be waiting. The cedars, dripping. The November air, sharp and clean.
 
 But nothing would be quiet again.
-
-The exit was not a grand gate, but a crack in the world, hidden behind a waterfall that cascaded down the mountain’s inner throat. We emerged into a narrow gorge, soaked and gasping, the thunder of water at our backs. It was daylight. True, gray, cloudy daylight. The air was so cold it felt like glass in my lungs.
+  - The exit was not a grand gate, but a crack in the world, hidden behind a waterfall that cascaded down the mountain’s inner throat. We emerged into a narrow gorge, soaked and gasping, the thunder of water at our backs. It was daylight. True, gray, cloudy daylight. The air was so cold it felt like glass in my lungs.
 
 We were on the opposite side of the mountain from the valley. The geography was unfamiliar, a brutal jumble of basalt and ice. But Alex knew the way. He pointed, without hesitation, to a seam in the cliffs. “There. A game trail. It leads down to the fir line, then back toward your valley.”
 
@@ -1708,8 +1716,7 @@ He was quiet for so long I thought he hadn’t heard. Then he said, “It’s li
 He gave me that ghost of a smile. “You already are.”
 
 We slept. Or I did. I don’t think he slept anymore. I woke in the deep night to see him sitting upright, staring into the dead fire, his eyes two points of soft, gold light in the darkness, watching over a world he was part of, and apart from.
-
-We reached the valley two days later. We came in from the high ridge, above the cabin. The sight of it—the smoke from the chimney, the cleared field, the familiar lines of the roof—hit me with a physical wave of longing and dread.
+  - We reached the valley two days later. We came in from the high ridge, above the cabin. The sight of it—the smoke from the chimney, the cleared field, the familiar lines of the roof—hit me with a physical wave of longing and dread.
 
 Then I saw the drone.
 
@@ -1745,11 +1752,13 @@ He met my gaze, and in his eyes, I saw the vast, quiet dread of the forest, and 
 
 “I’m the weapon.”
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The silence the drone left behind was worse than its whine. It was a held breath, a vacuum that pulled at the edges of the world. Down in the yard, Sam uncrossed her arms. She didn’t move toward the cabin. She just stood there, a fixed point in the gathering dusk, waiting for us to come to her.
 
@@ -1822,8 +1831,7 @@ One of the figures, a woman with a data-slate, looked up from her console direct
 Sam’s hand closed on my arm. Back, her grip said.
 
 We melted away from the overlook, into the deeper black of the woods. The plan had formed without words. The valley was a sealed box. We were inside it. There was only one way out they might not have fully sealed: the caverns.
-
-The entrance was a gash in the hillside, hidden by a waterfall that was little more than a trickle this late in the fall. The water was ice-cold, soaking us instantly as we pushed through the curtain of it into the dark within. I lit the old carbide lamp I’d retrieved from the cache. Its white, sputtering flame threw jumping shadows on the wet walls. The air smelled of stone and time.
+  - The entrance was a gash in the hillside, hidden by a waterfall that was little more than a trickle this late in the fall. The water was ice-cold, soaking us instantly as we pushed through the curtain of it into the dark within. I lit the old carbide lamp I’d retrieved from the cache. Its white, sputtering flame threw jumping shadows on the wet walls. The air smelled of stone and time.
 
 My grandfather had mapped these caves. They were a labyrinth, but they led, eventually, to a series of chimneys that opened onto the high desert plateau on the other side of the mountain range. A two-day journey in the dark, if you knew the way.
 
@@ -1932,8 +1940,7 @@ We paused at the entrance, looking back. The cavern was a tableau of two worlds 
 The lead man, his visor cracked, stared at us across the gulf. He did not give chase. He knew the river’s current was swift. He knew we were gone.
 
 We turned and plunged into the outflow tunnel, letting the sound of the water fill our ears, our minds, washing away the hum and the pulse and the silence of the weapon Alex had become.
-
-We emerged with the dawn, blinking in the weak, grey light. The salt flats stretched before us, a vast, white barrenness under a vast, empty sky. The air was clean and biting. Behind us, the mountain range was a purple silhouette. Inside it, a valley was sealed under a dome of light. Inside it, a war of sounds had been fought.
+  - We emerged with the dawn, blinking in the weak, grey light. The salt flats stretched before us, a vast, white barrenness under a vast, empty sky. The air was clean and biting. Behind us, the mountain range was a purple silhouette. Inside it, a valley was sealed under a dome of light. Inside it, a war of sounds had been fought.
 
 We walked until our legs gave out, then collapsed in the lee of a crumbling salt bluff. We drank sparingly from our water. We said nothing.
 
@@ -1963,11 +1970,13 @@ He stood up, brushing the white salt dust from his clothes. He did not look back
 
 “Then we go home,” he said. And he didn’t mean the valley. He meant the world that had forgotten it was a forest, filled with a thousand different, dissonant, living sounds. “We go and make some noise.”
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- CHAPTER 27
+CHAPTER 27
 
 The drone was watching, but the song was alive.
 
@@ -1984,8 +1993,7 @@ We were not the restless youths who had slipped into those woods. We were ghosts
 I placed my offering on Kael’s stone—not tobacco this time, but a sliver of quartz from the Elyrian valley, veined with a faint, phosphorescent mineral that glowed softly in the twilight. A tiny, stubborn light. “I know,” I said. “Just paying a debt.”
 
 Sam’s hand rested on my shoulder, a brief, solid weight. “He knows. Let’s go sow his damn seeds.”
-
-The old pump-house stood at the edge of the derelict marina, a crumbling brick box declared “structurally unsound” by the Consulate, therefore irrelevant, therefore unwatched. Its irrelevance was its armor. Inside, the smell of damp concrete and ozone was cut with the scent of yeast and hot circuitry. A single biolume panel, grown from Elyrian fungal cultures Alex had nurtured in secret, glowed a soft amber on a central table, its light organic, pulsing faintly like a heartbeat.
+  - The old pump-house stood at the edge of the derelict marina, a crumbling brick box declared “structurally unsound” by the Consulate, therefore irrelevant, therefore unwatched. Its irrelevance was its armor. Inside, the smell of damp concrete and ozone was cut with the scent of yeast and hot circuitry. A single biolume panel, grown from Elyrian fungal cultures Alex had nurtured in secret, glowed a soft amber on a central table, its light organic, pulsing faintly like a heartbeat.
 
 Around it stood twelve people. Marnie, the network archivist from the library, her hands still smudged with the old, non-digital ink from the books she was secretly digitizing onto shielded drives. Leo, a former infrastructure tech who’d grown disillusioned with the “optimization” that left entire sectors in deliberate decay. A few others: a gardener, a mechanic, two young students whose eyes held the same restless hunger mine once had. They were a patchwork of quiet discontent.
 
@@ -2022,8 +2030,7 @@ The thread of Kael’s mission—to preserve the doomed knowledge of Elyria—wa
 “They’ll escalate,” I said, the practical hunter in me never fully at rest. “They won’t just listen forever. When they can’t find the source, they’ll broaden the search. They’ll increase suppression.”
 
 “I know,” Alex said. A faint, grim smile touched his lips. “Then we stop whispering.”
-
-The full moon rose over the sea, a cold, polished coin. Sam and I stood with Alex on the headland once more, past Kael’s stone, at the very edge where the land crumbled into air. Below, the black water churned, etched with a path of shattered light.
+  - The full moon rose over the sea, a cold, polished coin. Sam and I stood with Alex on the headland once more, past Kael’s stone, at the very edge where the land crumbled into air. Below, the black water churned, etched with a path of shattered light.
 
 The technological anxiety here was a symphony. The red navigation lights of a Consulate patrol cutter blinked on the horizon. The faint, ultrasonic whine of a high-altitude surveillance platform was a pressure behind our ears. The entire coastline was a documented, monitored entity.
 
@@ -2067,11 +2074,13 @@ The drone was watching. It would always be watching.
 
 But the song was alive. And now, it was learning to multiply.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The ghost of the song was a tinnitus in the wires of the world.
 
@@ -2193,11 +2202,13 @@ The drone was watching. Alex was caught. The song was a seed in the wind.
 
 And I was the hand, now, that had to plant it.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The memory of the leaf was a cold stone in my pocket. It weighted every step.
 
@@ -2329,11 +2340,13 @@ It was the only destination I had left.
 
 The hook in my gut, pulling me toward Chapter 15, was not a mission. It was a raw, animal need. To find a hole so deep and dark that not even a friendly ghost could find me. To lick my wounds. And to decide, in that absolute silence, if the contract I now needed to honor was with the living, or with the dead.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The thicket was a mouth. It had swallowed me, and now it was closing.
 
@@ -2567,11 +2580,13 @@ I pushed myself up. I had no destination. No boy’s sanctuary remained.
 
 I had only one direction left: away from the light. Into the deeper, darker, older parts of the forest, where not even a sigh from a well could reach, and where the only thing waiting was the final, unobserved silence.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The forest had a different kind of quiet when you were hunted. It was not the deep, organic silence I had felt after killing the rig. That had been a blanket, a completeness. This was a held breath. Every creak of a branch, every rustle in the understory, was a betrayal. The air itself felt thin, scraped raw by the rotor-wind that still echoed in the hollows of my ears.
 
@@ -2793,11 +2808,13 @@ Not away. Not anymore.
 
 Into.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The ropes hissed down the cliff face like serpents descending. I heard the creak of harnesses, the low, professional murmur of men performing a routine extraction. They were efficient. They would not be gentle. The mud in my fist was a cold, gritty anchor, the only thing in the world that was not pain or the anticipation of pain.
 
@@ -2968,8 +2985,7 @@ The last thing I saw was the surgeon’s eyes, watching me over his mask. Not wi
 The black tide rose.
 
 And took me under.
-
-I surfaced in fragments.
+  - I surfaced in fragments.
 
 The smell of antiseptic. The ache of a deep, internal wound freshly sutured. The dull, packed throb of my leg in a proper cast. I was in a bed. A real one. Soft. The light was dim.
 
@@ -3083,11 +3099,13 @@ I had a crack.
 
 And a crack, in a system built on perfection, is where the wildness gets in.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The crack was not a thing. It was an absence. A sliver of negative space in the seamless narrative of my correction. It was the surgeon’s glance, a punctuation mark of doubt in a sentence that demanded a period. I lay in the sterile quiet, feeling the new, clean hollow in my chest where the device had been. The physical absence was a relief, a coolness where there had been the low-grade fever of foreign metal. But the other absence, the one they had carved out with chemicals and certainty, that was different. They had scooped out the story of the seed, the mud, the forest. They had declared the prayer obsolete.
 
@@ -3384,11 +3402,13 @@ For a harvest that was not yet complete.
 
 END CHAPTER 18
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The silence was a vessel. It held the shape of the gesture, the after-image of the pluck. My hand fell back to the sterile sheet, but the motion hung in the air of the correction suite, a ghost-limb of intent. I had rehearsed it. Now, the silence waited to see if I would perform.
 
@@ -3449,8 +3469,7 @@ He stood to leave, his body rigid with the burden of this treason. At the door, 
 The old words were ash in my mouth. The concepts felt distant, childish. But the clarity from last night, the terrible, empty clarity, remained. “We think of harvest as taking,” I said, my voice foreign to me. “But it’s a giving, first. The seed is given. The plant grows. The fruit is offered. The hand that plucks completes a circle. It’s an acknowledgment of a gift received. Not a theft.” I looked at him. “Their machine was the unintended root. The prayer was the rain. The gesture is the ripe fruit, ready to be taken. They are cutting down the plant and wondering why the fruit keeps appearing.”
 
 Kael stood there for a long moment, a man of science marooned in a metaphor. He gave no sign of understanding, or belief. Only a slow, weary nod of acceptance. “Then do not be fruit on their vine,” he said, and the door sealed shut behind him.
-
-The discharge was a pantomime of wellness. A smiling facilitator who wasn’t Mara went through a checklist. My personal effects—the clothes I’d arrived in, now cleaned and folded—were returned. They felt like a costume. I dressed in the silent room, each article a layer of a former self that no longer fit. The facilitator prattled about community reintegration sessions, neural hygiene follow-ups. I heard the hum of the lie beneath the words. The watchful, waiting hum.
+  - The discharge was a pantomime of wellness. A smiling facilitator who wasn’t Mara went through a checklist. My personal effects—the clothes I’d arrived in, now cleaned and folded—were returned. They felt like a costume. I dressed in the silent room, each article a layer of a former self that no longer fit. The facilitator prattled about community reintegration sessions, neural hygiene follow-ups. I heard the hum of the lie beneath the words. The watchful, waiting hum.
 
 I was escorted not to the main entrance, but to a private transit bay. A sleek, autonomous pod waited, its door open. “It will take you to your registered residence,” the facilitator said. “Welcome back to the world.”
 
@@ -3661,11 +3680,13 @@ I was the spore on the wind.
 
 END CHAPTER 19
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The city’s hum was a lie. It was a blanket of sound, a manufactured white noise to cover the silence underneath. I walked through it, a ghost in a world of ghosts, the seed a cold, smooth stone in the pocket of my jeans. My hands were clean. My clothes bore no trace of the chamber, the spores, the luminous death of the machines. But I felt stained. Not by dirt, but by use.
 
@@ -3833,11 +3854,13 @@ And I had to decide which side of the old contract I was really on.
 
 END CHAPTER 20
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The chattering of my teeth was a traitorous Morse code, broadcasting my location to the cold and the dark. I forced my jaw shut, bit down until the muscles in my temples ached. The silence that followed was not empty. It was thick. It was the silence of the canal absorbing sound, of stone holding its breath, of the mycelial knot in my palm humming a frequency below hearing.
 
@@ -4013,11 +4036,13 @@ I was off the grid. And I had never been more lost.
 
 END CHAPTER 21
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The silence was a physical weight. It pressed against my eardrums, a thick, cottony absence where the network’s hum had been. The pull in my chest was gone, not faded, but severed—a clean, brutal cut that left a phantom ache behind. I was a satellite wrenched from orbit, tumbling into dead space. The world, which for days had been a tapestry of subtle connections, a quiet conversation between things, was now just a collection of objects. The dust was just dust. The cold was just cold. The fear was just fear, sharp and singular and mine alone.
 
@@ -4161,11 +4186,13 @@ I turned my face toward the source of the silent scream, the place where the pat
 
 I walked as an antibody, moving toward the infection.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The city was a corpse, and I was walking its nervous system.
 
@@ -4305,11 +4332,13 @@ The drones hovered, a perfect, lethal constellation. They did not speak. They di
 
 The seed had been planted in the darkness. Now it had to grow in the light of their blinding, sterile sun.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The drones were watching, and the city was dead.
 
